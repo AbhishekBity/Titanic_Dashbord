@@ -80,17 +80,23 @@ The goal of this project is to **clean, explore, and visualize** the data in Exc
 
 ## 📷 Screenshots
 
-_Add screenshots or GIFs of your Excel dashboard and charts here for better visual impact._
-
+_dashboard_screenshot.png"
 ---
 
 ## 🤝 Contribution
 
 This is a beginner-friendly Excel dashboard project.  
-Feel free to **fork, modify**, or **replicate** this project using **Google Sheets**, **Power BI**, or **Python** to practice data analysis and visualization.
+
+Feel free to **fork, modify**, or **replicate** this to practice data analysis and visualization.
 
 ---
+👨‍💻 Author
+Abhishek Bity
+📧 Email: bityabhishekwork@gmail.com
+
+
+
 
 ## 📜 License
 
-This project is open-source and available under the **MIT License**.
+This project is free to use for educational and personal portfolio purposes.
